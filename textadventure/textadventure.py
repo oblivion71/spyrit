@@ -371,7 +371,7 @@ def ShowHelpMenu(command):
         print("inventory| inventory| Shows player's inventory")
         print("info| info <item name> OR info <person name>| gives more info")
         print("throw| throw <item name> OR throw <item name > <quantity>| throws an item")
-        print("help| help| already in help menu, if don't know how to use help to get help, not my problem")
+        print("help| help| already in help menu, if don't know how to use help to get help, not my problem screw off")
         print("="*length)
     else:
         return print("Invalid command: Can only just do 'help'!")
